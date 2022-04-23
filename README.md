@@ -1,2 +1,2 @@
 # 04-board-sources
-BOARD
+HOVER-BOARD
